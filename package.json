@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ofarukcaki/gh-package/issues"
   },
-  "homepage": "https://github.com/ofarukcaki/gh-package#readme"
+  "homepage": "https://github.com/ofarukcaki/gh-package#readme",
+  "publishConfig": {
+    "ofarukcaki:registry": "https://npm.pkg.github.com"
+  }
 }
